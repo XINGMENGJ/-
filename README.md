@@ -1,9 +1,3 @@
-# text\#
-#1
-##2
-###3
-####4
-#####5
-*x*
-**c**
+# text\
+
 qweqweqwe\<br\><br>qweqwe
